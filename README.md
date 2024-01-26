@@ -7,16 +7,15 @@ I'm frontend developer from Colombia
 ## Skills and Technologies ⚡
 
 - **Programming Languages:**
-  - JavaScript (Node.js)
+  - JavaScript
   - TypeScript
   - SQL
   - CSS
   - C#
   
 - **Frameworks and Libraries:**
-  - Frontend: Angular, React
-  - Backend: Node.js, .Net
-  - 
+  - Frontend: Angular, React, Tailwind, Next Js, Redux
+  - Backend: Node.js, .Net, Express
 ## Contact :phone:
 
 I am open to collaborations, suggestions, and exciting opportunities! Feel free to reach out to me via email williamgalvisrivera@gmail.com o [LinkedIn](https://www.linkedin.com/in/william-galvis-5b8a941a6/).
