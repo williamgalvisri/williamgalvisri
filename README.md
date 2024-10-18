@@ -19,3 +19,5 @@ I'm frontend developer from Colombia
 ## Contact :phone:
 
 I am open to collaborations, suggestions, and exciting opportunities! Feel free to reach out to me via email williamgalvisrivera@gmail.com o [LinkedIn](https://www.linkedin.com/in/william-galvis-5b8a941a6/).
+
+go to [my resume](https://williamgalvisri.github.io/resume/)
